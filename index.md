@@ -42,6 +42,7 @@ best model for this project is the random forest using ROC/AUC as evaluation mat
 I will predict the number of clusters of universities in America.
 
 <img src="images/ifc_output.jpg"/>
+<br><br>
 
 ---
 
