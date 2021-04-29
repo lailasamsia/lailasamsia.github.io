@@ -2,26 +2,61 @@
 
 ---
 
+## Clustering Universities in America
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Clustering-Universities-in-America)
+### Project Overview
+<div style="text-align: justify">
+The project aims to group universities in America. To group them, I do clustering.
+I am performing comprehensive EDA on the Universities in America dataset, then transform the data using Principal
+Component Analysis to clustering universities.
+I will predict the number of clusters of universities in America
+<img src="images/au_output.jpg"/>
+
+---
 ## Loan Approval Prediction
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Loan-Approval-Prediction)
+
 ### Project Overview
-This project to determine the loan approval based on personal information and loan history that has been done.
-Performing comprehensive EDA on Loan Approval Prediction dataset to understand important variables, handled missing values,
-outliers, and ensembled machine learning models to predict applicant's loan approval. The 
-best model to this project is random forest with ROC/AUC evaluation matrix.
+<div style="text-align: justify">
+This project to determine the loan approval based on personal information and loan history. I am performing comprehensive EDA on the Loan Approval Prediction dataset to understand important variables, handled missing values, outliers, and ensemble machine learning models to predict the Applicant's loan approval. The best model for this project is logistic regression.
 <br><br>
 I will predict whether the loan can be approved or not and compare it to the actual status of the loan.
 
-<img src="images/loan approval prediction/lap_output.jpg"/>
+<img src="images/lap_output.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Indonesia Financial Crisis
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Clustering-Universities-in-America)
+### Project Overview
+<div style="text-align: justify">
+The project to determine whether or not the company experiencing a crisis based on its important features. 
+I am performing comprehensive EDA on Indonesia’s financial crisis dataset to understand important variables,
+outliers, and ensemble machine learning models to predict new data to find out which data are in crisis. The 
+best model for this project is the random forest using ROC/AUC as evaluation matrix.
+I will predict the number of clusters of universities in America.
+<img src=""/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+## Predict Churned Customer
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
+### Project Overview
+<div style="text-align: justify">
+The project to determine the churned customer based on its important features so the company can give them special treatment. 
+I am performing comprehensive EDA on Churned Customer dataset to understand important variables, handled missing values,
+outliers, and ensemble machine learning models to predict the churned customers. The model for this project is logistic regression.
+I will predict the churned customers.
+<img src=""/>
+  
+---  
+## Predict Churned Customer
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
+### Project Overview
+<div style="text-align: justify">
+The project to determine the churned customer based on its important features so the company can give them special treatment. 
+I am performing comprehensive EDA on Churned Customer dataset to understand important variables, handled missing values,
+outliers, and ensemble machine learning models to predict the churned customers. The model for this project is logistic regression.
+I will predict the churned customers.
+<img src=""/>
 ---
 
 ### Category Name 2
