@@ -40,6 +40,7 @@ outliers, and ensemble machine learning models to predict new data to find out w
 best model for this project is the random forest using ROC/AUC as evaluation matrix.
 I will predict the number of clusters of universities in America.
 
+<img src="images/ifc_output.jpg"/>
 
 ---
 
@@ -53,28 +54,12 @@ The project to determine the churned customer based on its important features so
 I am performing comprehensive EDA on Churned Customer dataset to understand important variables, handled missing values,
 outliers, and ensemble machine learning models to predict the churned customers. The model for this project is logistic regression.
 I will predict the churned customers.
+  
 <img src="images/cc.jpg"/>
   
 ---  
 
-## Predict Churned Customer
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
-### Project Overview
-<div style="text-align: justify">
-The project to determine the churned customer based on its important features so the company can give them special treatment. 
-I am performing comprehensive EDA on Churned Customer dataset to understand important variables, handled missing values,
-outliers, and ensemble machine learning models to predict the churned customers. The model for this project is logistic regression.
-I will predict the churned customers.
-<img src=""/>
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
