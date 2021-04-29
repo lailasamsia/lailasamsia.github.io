@@ -2,10 +2,9 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Loan Approval Prediction](https://github.com/lailasamsia/Loan-Approval-Prediction)
+<img src="images/loan approval prediction/loan_amount_plot.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
