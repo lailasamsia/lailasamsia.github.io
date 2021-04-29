@@ -2,8 +2,8 @@
 
 ---
 
-
-[Loan Approval Prediction](https://github.com/lailasamsia/Loan-Approval-Prediction)
+## Loan Approval Prediction
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Loan-Approval-Prediction)
 ### Project Overview
 This project to determine the loan approval based on personal information and loan history that has been done.
 Performing comprehensive EDA on Loan Approval Prediction dataset to understand important variables, handled missing values,
