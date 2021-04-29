@@ -4,6 +4,7 @@
 
 ## Clustering Universities in America
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Clustering-Universities-in-America)
+
 ### Project Overview
 <div style="text-align: justify">
 The project aims to group universities in America. To group them, I do clustering.
@@ -22,7 +23,7 @@ I will predict the number of clusters of universities in America</div>
 <div style="text-align: justify">
 This project to determine the loan approval based on personal information and loan history. I am performing comprehensive EDA on the Loan Approval Prediction dataset to understand important variables, handled missing values, outliers, and ensemble machine learning models to predict the Applicant's loan approval. The best model for this project is logistic regression.
 <br><br>
-I will predict whether the loan can be approved or not and compare it to the actual status of the loan.
+I will predict whether the loan can be approved or not and compare it to the actual status of the loan.</div>
 
 <img src="images/lap_output.jpg"/>
 
@@ -30,6 +31,7 @@ I will predict whether the loan can be approved or not and compare it to the act
 
 ## Indonesia Financial Crisis
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Clustering-Universities-in-America)
+
 ### Project Overview
 <div style="text-align: justify">
 The project to determine whether or not the company experiencing a crisis based on its important features. 
@@ -43,6 +45,7 @@ I will predict the number of clusters of universities in America.
 
 ## Predict Churned Customer
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
+
 ### Project Overview
 <div style="text-align: justify">
 The project to determine the churned customer based on its important features so the company can give them special treatment. 
