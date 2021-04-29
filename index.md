@@ -44,7 +44,6 @@ I will predict the number of clusters of universities in America.
 
 ---
 
-
 ## Predict Churned Customer
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
 
@@ -67,5 +66,3 @@ I will predict the churned customers.
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
