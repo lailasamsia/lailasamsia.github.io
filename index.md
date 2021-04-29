@@ -60,9 +60,6 @@ I will predict the churned customers.
 
 ---
 
-
----
-
 ## Predict Churned Customer
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
 
@@ -75,13 +72,5 @@ outliers, and ensemble machine learning models to predict the churned customers.
 I will predict the churned customers.
   
 <img src="images/cc.jpg"/>
-  
-
----
-
----
-
-
-
 
 ---
