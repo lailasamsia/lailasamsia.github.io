@@ -12,11 +12,7 @@ best model to this project is random forest with ROC/AUC evaluation matrix.
 <br><br>
 I will predict whether the loan can be approved or not and compare it to the actual status of the loan.
 
-<img src="images/loan approval prediction/loan_amount_plot.png"/>
-<img src="images/loan approval prediction/credit_history_plot.png"/>
-<img src="images/loan approval prediction/loan_amount_term_plot.png"/>
-<img src="images/loan approval prediction/loan_amount_out.png"/>
-<img src="images/loan approval prediction/ROC_curve.png"/>
+<img src="images/loan approval prediction/lap_output.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
