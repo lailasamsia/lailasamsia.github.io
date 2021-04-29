@@ -38,6 +38,7 @@ The project to determine whether or not the company experiencing a crisis based 
 I am performing comprehensive EDA on Indonesia’s financial crisis dataset to understand important variables,
 outliers, and ensemble machine learning models to predict new data to find out which data are in crisis. The 
 best model for this project is the random forest using ROC/AUC as evaluation matrix.
+<br><br>
 I will predict the number of clusters of universities in America.
 
 <img src="images/ifc_output.jpg"/>
@@ -53,6 +54,7 @@ I will predict the number of clusters of universities in America.
 The project to determine the churned customer based on its important features so the company can give them special treatment. 
 I am performing comprehensive EDA on Churned Customer dataset to understand important variables, handled missing values,
 outliers, and ensemble machine learning models to predict the churned customers. The model for this project is logistic regression.
+<br><br>
 I will predict the churned customers.
   
 <img src="images/cc.jpg"/>
