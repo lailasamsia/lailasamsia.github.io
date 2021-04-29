@@ -43,6 +43,8 @@ I will predict the number of clusters of universities in America.
 
 <img src="images/ifc_output.jpg"/>
 
+---
+
 
 ---
 
@@ -59,7 +61,6 @@ I will predict the churned customers.
   
 <img src="images/cc.jpg"/>
   
----  
 
 ---
 
