@@ -42,7 +42,10 @@ I will predict the number of clusters of universities in America.
 <img src="images/ifc_output.jpg"/>
 <br>
 
-------
+
+---
+
+
 ## Indonesia Financial Crisis
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Clustering-Universities-in-America)
 
@@ -59,7 +62,9 @@ I will predict the number of clusters of universities in America.
 <br>
 
 
-------
+---
+
+
 ## Predict Churned Customer
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
 
