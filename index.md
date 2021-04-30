@@ -40,7 +40,7 @@ best model for this project is the random forest using ROC/AUC as evaluation mat
 I will predict the number of clusters of universities in America.
 
 <img src="images/ifc_output.jpg"/>
-<br><br>
+<br>
 
 
 ## Indonesia Financial Crisis
@@ -56,7 +56,7 @@ best model for this project is the random forest using ROC/AUC as evaluation mat
 I will predict the number of clusters of universities in America.
 
 <img src="images/ifc_output.jpg"/>
-
+<br>
 
 ## Predict Churned Customer
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
