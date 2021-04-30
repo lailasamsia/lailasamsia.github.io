@@ -15,20 +15,6 @@ I will predict the number of clusters of universities in America</div>
 <img src="images/au_output.jpg"/>
 
 
-## Predict Churned Customer
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
-
-### Project Overview
-<div style="text-align: justify">
-The project to determine the churned customer based on its important features so the company can give them special treatment. 
-I am performing comprehensive EDA on Churned Customer dataset to understand important variables, handled missing values,
-outliers, and ensemble machine learning models to predict the churned customers. The model for this project is logistic regression.
-<br><br>
-I will predict the churned customers.
-  
-<img src="images/cc.jpg"/>
-
-
 ## Loan Approval Prediction
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Loan-Approval-Prediction)
 
