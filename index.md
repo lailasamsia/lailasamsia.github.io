@@ -46,25 +46,6 @@ I will predict the number of clusters of universities in America.
 ---
 
 
-## Indonesia Financial Crisis
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Clustering-Universities-in-America)
-
-### Project Overview
-<div style="text-align: justify">
-The project to determine whether or not the company experiencing a crisis based on its important features. 
-I am performing comprehensive EDA on Indonesia’s financial crisis dataset to understand important variables,
-outliers, and ensemble machine learning models to predict new data to find out which data are in crisis. The 
-best model for this project is the random forest using ROC/AUC as evaluation matrix.
-<br><br>
-I will predict the number of clusters of universities in America.
-
-<img src="images/ifc_output.jpg"/>
-<br>
-
-
----
-
-
 ## Predict Churned Customer
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
 
