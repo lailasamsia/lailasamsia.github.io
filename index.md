@@ -14,7 +14,6 @@ Component Analysis to clustering universities.
 I will predict the number of clusters of universities in America</div>
 <img src="images/au_output.jpg"/>
 
----
 
 ## Loan Approval Prediction
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Loan-Approval-Prediction)
@@ -27,7 +26,6 @@ I will predict whether the loan can be approved or not and compare it to the act
 
 <img src="images/lap_output.jpg"/>
 
----
 
 ## Indonesia Financial Crisis
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Clustering-Universities-in-America)
@@ -44,7 +42,6 @@ I will predict the number of clusters of universities in America.
 <img src="images/ifc_output.jpg"/>
 <br><br>
 
----
 
 ## Predict Churned Customer
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lailasamsia/Predict-Churned-Customer)
@@ -59,4 +56,4 @@ I will predict the churned customers.
   
 <img src="images/cc.jpg"/>
 
----
+
