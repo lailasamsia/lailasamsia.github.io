@@ -6,11 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/lailasamsia">GitHub</a>
   </p>
   <p align="justify">
-  I am a Junior Data Scientist. I am a participant of Data Science Bootcamp Batch 9 held by Shift Academy.
-  I got BE degree in Geophysical Engineering at UPN Veteran Yogyakarta
+  I am a Data Scientist. I have completed Data Science Bootcamp held by Shift Academy.
+  I got BE degree in Geophysical Engineering at UPN Veteran Yogyakarta.
   <br><br>
-  Expertise:
-  Python | MySQL | Tableau | R | Ms. Excel
+Expertise:
+  Python | MySQL | Tableau | R | Ms. Excel 
   <br>
 
 theme: jekyll-theme-minimal
