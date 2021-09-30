@@ -9,8 +9,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a Data Scientist. I have completed Data Science Bootcamp held by Shift Academy.
   I got BE degree in Geophysical Engineering at UPN Veteran Yogyakarta.
   <br><br>
-Expertise:
-  Python | MySQL | Tableau | R | Ms. Excel 
+  Expertise:
+  Python | MySQL | Tableau | R | Ms. Excel | Oracle Data Modeler
   <br>
 
 theme: jekyll-theme-minimal
